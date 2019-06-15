@@ -5,8 +5,24 @@
 
 ###### For the summer of 2019, I will be working with [Dr. Daniel Ritchie] at Brown University. His broad research focus is in the intersection of computer graphics with artificial intelligence and machine learning. Our project will focus on training a computer vision task which can take an incomplete point cloud representation of a scene and predict which parts of which objects in that scene can be interacted with and how they can move.
 
+---
 
-##### A catalog of blog entries for my DREU summer exprexience can found below:
+---
+## Week 1: June 3rd - 7th
+Upon moving in and meeting my mentor as well as the research team, I was given an in-depth introduction to the current project and research efforts that have been developed over the past year. Also, learned that there was one week left to meet the International Conference on 3D Vision June 10th paper deadline. The gist of the project is that we further segment existing 3D models into individual components and provide an initial seed or batch of manual kinematic annotations which are then used in conjunction with Geometric Sampling and shallow Machine Learning algorithms to suggest possible new kinematic annotations. In conjunction with my first week in the lab, I had several social events to attend for another summer program that I am apart of at Brown. Thus far, I am enjoying my time here and look forward to the weeks to come.  
+
+![][week_1]
+
+Here's a aerial view of Providence, RI
+
+## Week 2: June 10th - 14th
+The entire research team worked through the weekend to meet the deadline for 3DV. It was rather intense yet rewarding at the same time. I feel more comfortable communicating with my mentor and others in the lab. Once we met our deadline, my mentor let us rest and take it easy for the next few days. We convened later in the week to discuss action items to polish our current work and also met with a PhD student from another lab to discuss a potential collaboration with his work and our current dataset. Although things have slowed down, between reviewing literature suggest by mentor as well as the PhD student and action items there is still plenty to do. I am beyond pleased to be apart of this lab and learn from everyone here.
+
+
+![][week_2]
+Rhode Island School of Design's Muesem 
 
 [Dr. Daniel Ritchie]: https://dritchie.github.io
 [home_page]: https://hammania689.github.io
+[week_1]: https://i.imgur.com/IuAh1Iv.jpg
+[week_2]: https://i.imgur.com/AI6E214.jpg
