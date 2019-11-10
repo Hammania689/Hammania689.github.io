@@ -29,9 +29,9 @@ Carnegie Mellon Robotics Institute Summer Scholar Working Papers Journal, 2019 <
 
 3. **SHREC’18 Track: 2D Image-Based 3D Scene Retrieval**. </br> **Hameed Abdul-Rashid**, [Juefei Yuan][juefei], [Bo Li][bo], [Yijuan Lu][yijuan], Song Bai, Xiang Bai, Ngoc-Minh Bui, Minh N. Do, Trong-Le Do, Anh-Duc Duong, Xinwei He, Tu-Khiem Le, Wenhui Li, Anan Liu, Xiaolong Liu, Khac-Tuan Nguyen, Vinh-Tiep Nguyen, Weizhi Nie, Van-Tu Ninh, Yuting Su, Vinh Ton-That, Minh-Triet Tran, Shu Xiang, Heyu Zhou, Yang Zhou, Zhichao Zhou </br>Eurographics Workshop on 3D Object Retrieval, 2018 </br> [ [Paper][shrecibr18]]  [ [Website][ibr18]]
 <!-- Advisers -->
-[daniel]:[https://dritchie.github.io]
-[bo]: [https://sites.google.com/site/libohomepage/homepage]
-[christoph]: [https://www.ri.cmu.edu/ri-people/christoph-mertz/]
+[daniel]:https://dritchie.github.io
+[bo]: https://sites.google.com/site/libohomepage/homepage
+[christoph]: https://www.ri.cmu.edu/ri-people/christoph-mertz/
 
 <!-- Author Links -->
 [juefei]: https://www.linkedin.com/in/juefei-yuan-494a34176/
