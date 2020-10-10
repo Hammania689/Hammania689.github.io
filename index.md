@@ -1,37 +1,32 @@
 
 # Hameed Abdul
+# 김지호
 ---
-I am con-currently a visiting researcher at Brown Univeristy advised by [Daniel Ritchie][daniel] and also a student researcher at the University of Southern Mississipi advised by [Bo Li][bo]. Previously, I spent the summer of 2018 at the Carnegie Mellon University Robotics Institute advised by [Christoph Mertz][christoph]. These days I am broadly interested in 3D Computer Vision and Representation Learning.
-
-## Drafts
-1. **A Scalable Pipeline for Annotating Articulated Parts in 3D Shape and Scene Collections** </br> [Mae Heitmann][mae], [Michael Cosgrove][michael], [Hanxiao Jiang][shawn], **Hameed Abdul-Rashid**, [Siddhartha Chaudhuri][sid], [Vladimir Kim][vova], [Manolis Savva][manolis], [Angel X. Chang][angel], [Daniel Ritchie][daniel]
+## Introduction
+I am a desecedent of American Slaves, problem solver in training, and first year PhD student at the University of Illinois at Urbana-Champaign. My advisor is [Timothy Bretl][tim], I am broadly interested in the practical intersection of **Representation Learning**, **Computer Vision**, and **Reinforcement Learning** for Robotic Applications.
 
 
-2. Yuan, J., Abdul-Rashid H. , Li, B. 
-**A Survey of Data as well as Semantic-Driven 3D Scene Analysis and Processing** </br> [Juefei Yuan][juefei], **Hameed Abdul-Rashid**, [Bo Li][bo]
-
-
-3. **A comparison of methods for 3D scene shape retrieval** </br> [Juefei Yuan][juefei], **Hameed Abdul-Rashid**, [Bo Li][bo], [Yijuan Lu][yijuan], Tobias Schreck, Ngoc-Minh Bui, Trong-Le Do, Mike Holenderski, Dmitri Jarnikov, Khiem T. Le, Vlado Menkovski, Khac-Tuan Nguyen, Thanh-An Nguyen, Vinh-Tiep Nguyen, Tu V. Ninh, Perez Rey, Minh-Triet Tran, Tianyang Wang , Song Bai, Xiang Bai, Ngoc-Minh Bui, Minh N. Do, Trong-Le Do, Anh-Duc Duong, Xinwei He, Tu-Khiem Le, Wenhui Li, Anan Liu, Xiaolong Liu, Khac-Tuan Nguyen, Vinh-Tiep Nguyen, Weizhi Nie, Van-Tu Ninh, Yuting Su, Vinh Ton-That, Minh-Triet Tran, Shu Xiang, Heyu Zhou, Yang Zhou, Zhichao Zhou, 
-
-
-4. **ECG signal classification via convolutional neural networks**
-Xuan Hua, Jungang Han, Chen Zhao, Shaojie Tang, Cheng Jin, **Hameed Abdul-Rashid**, [Haipeng Tang][haipeng], [Weihua Zhou][weihua], Min Zhao
+In the past, I was a Research Engineer Intern at [Latent Space][latent]. During my undergraduate experience, I had the privelege of working with  [Daniel Ritchie][daniel] at Brown Univeristy, [Christoph Mertz][christoph] at the Carnegie Mellon University Robotics Institute, and [Bo Li][bo] at the University of Southern Mississippi. 
 
 
 ## Conference
 1. **Sketch/Image-Based 3D Scene Retrieval: Benchmark, Algorithm, Evaluation** </br> **Hameed Abdul-Rashid**, [Juefei Yuan][juefei], [Bo Li][bo], [Yijuan Lu][yijuan] </br> IEEE Multimedia Information Processing and Retrieval, 2019 </br> [ [Paper][mipr_unoff]] [ [Website][ibr19]]
 
 ## Journal
+1. **A comparison of methods for 3D scene shape retrieval** </br> [Juefei Yuan][juefei], **Hameed Abdul-Rashid**, [Bo Li][bo], [Yijuan Lu][yijuan], Tobias Schreck, Ngoc-Minh Bui, Trong-Le Do, Mike Holenderski, Dmitri Jarnikov, Khiem T. Le, Vlado Menkovski, Khac-Tuan Nguyen, Thanh-An Nguyen, Vinh-Tiep Nguyen, Tu V. Ninh, Perez Rey, Minh-Triet Tran, Tianyang Wang , Song Bai, Xiang Bai, Ngoc-Minh Bui, Minh N. Do, Trong-Le Do, Anh-Duc Duong, Xinwei He, Tu-Khiem Le, Wenhui Li, Anan Liu, Xiaolong Liu, Khac-Tuan Nguyen, Vinh-Tiep Nguyen, Weizhi Nie, Van-Tu Ninh, Yuting Su, Vinh Ton-That, Minh-Triet Tran, Shu Xiang, Heyu Zhou, Yang Zhou, Zhichao Zhou </br> Computer Vision and Image Understanding Volume 201, December 2020 </br> [ [Paper][cviu2020] ]  
+
+
+
 1. **SHREC’19 Track: Extended 2D Scene Image-Based 3D Scene Retrieval** </br> **Hameed Abdul-Rashid**, [Juefei Yuan][juefei], [Bo Li][bo], [Yijuan Lu][yijuan], [Tobias Schreck][tobias], Ngoc-Minh Bui, Trong-Le Do, Mike Holenderski, Dmitri Jarnikov, Khiem T. Le, Vlado Menkovski, Khac-Tuan Nguyen, Thanh-An Nguyen, Vinh-Tiep Nguyen, Tu V. Ninh, Perez Rey, Minh-Triet Tran, Tianyang Wang </br> Eurographics Workshop on 3D Object Retrieval, 2019</br> [ [Paper][shrecibr19] ]  [ [Website][ibr19] ]
 
-2. **An End-to-End Framework for Landslide Erosion Analysis** </br> **Hameed Abdul-Rashid** and [Christoph Mertz][christoph] </br>
-Carnegie Mellon Robotics Institute Summer Scholar Working Papers Journal, 2019 </br> [ [Paper][rissPaper] ]  [ [Code][rissCode] ]
+2. **An End-to-End Framework for Landslide Erosion Analysis** </br> **Hameed Abdul-Rashid** and [Christoph Mertz][christoph] </br> Carnegie Mellon Robotics Institute Summer Scholar Working Papers Journal, 2019 </br> [ [Paper][rissPaper] ]  [ [Code][rissCode] ]
 
 3. **SHREC’18 Track: 2D Image-Based 3D Scene Retrieval**. </br> **Hameed Abdul-Rashid**, [Juefei Yuan][juefei], [Bo Li][bo], [Yijuan Lu][yijuan], Song Bai, Xiang Bai, Ngoc-Minh Bui, Minh N. Do, Trong-Le Do, Anh-Duc Duong, Xinwei He, Tu-Khiem Le, Wenhui Li, Anan Liu, Xiaolong Liu, Khac-Tuan Nguyen, Vinh-Tiep Nguyen, Weizhi Nie, Van-Tu Ninh, Yuting Su, Vinh Ton-That, Minh-Triet Tran, Shu Xiang, Heyu Zhou, Yang Zhou, Zhichao Zhou </br>Eurographics Workshop on 3D Object Retrieval, 2018 </br> [ [Paper][shrecibr18]]  [ [Website][ibr18]]
 <!-- Advisers -->
 [daniel]:https://dritchie.github.io
 [bo]: https://sites.google.com/site/libohomepage/homepage
 [christoph]: https://www.ri.cmu.edu/ri-people/christoph-mertz/
+[tim]: http://bretl.csl.illinois.edu/people
 
 <!-- Author Links -->
 [juefei]: https://www.linkedin.com/in/juefei-yuan-494a34176/
@@ -59,9 +54,10 @@ Carnegie Mellon Robotics Institute Summer Scholar Working Papers Journal, 2019 <
 [mipr_unoff]: https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsaWJvaG9tZXBhZ2V8Z3g6ZjVhMjlmYTc4NjBjNDYz
 
 [mipr_ieee]: https://ieeexplore.ieee.org/document/8695316/authors#authors
-
+[cviu]: https://docs.google.com/viewer?%20a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxsaWJvaG9tZXBhZ2V8Z3g6ZjVhMjlmYTc4NjBjNDYz
 <!-- Project websites -->
 [ibr18]: http://orca.st.usm.edu/~bli/SceneIBR2018
 [ibr19]:  http://orca.st.usm.edu/~bli/SceneIBR2019
 [rissCode]: https://github.com/Hammania689/landslides3D
 
+[latent]:https://www.latentspace.co/
